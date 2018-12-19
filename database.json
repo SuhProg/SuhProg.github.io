@@ -1,11 +1,11 @@
 [
     {
         "Id": 158,
+        "Código": "P0234F",
         "Título": "Sem ponto de acesso",
         "Abertura": "2018-12-12 13:30:00",
         "Solicitante": "PIXEL\\suely.moraes",
         "Status": "Aberto",
-        "Código": "P0234F",
         "interacoes": [
             {
                 "Id":1,
@@ -24,11 +24,11 @@
 
     {
         "Id": 159,
+        "Código": "P0235F",
         "Título": "Sem ponto de acesso",
         "Abertura": "2018-12-12 13:30:00",
         "Solicitante": "PIXEL\\suely.moraes",
         "Status": "Fechado",
-        "Código": "P0235F",
         "interacoes": [
             {
                 "Id":1,
