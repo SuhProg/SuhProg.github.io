@@ -3,19 +3,19 @@
         "Id": 158,
          "Codigo": "P0234F",
         "Titulo": "Sem ponto de acesso",
-        "Abertura": "2018-12-12 13:30:00",
+        "Abertura": "12/12/2018 13:30",
         "Solicitante": "PIXEL\\suely.moraes",
         "Status": "Aberto",
         "Interacoes": [
             {
                 "Id":1,
-                "DataEvento": "2018-12-12 13:30:00", 
+                "DataEvento": "12/12/2018 13:45", 
                 "Mensagem": "Estou sem acesso a internet...",
                 "Usuario": "PIXEL\\suely.moraes"
             },
             {
                 "Id":2,
-                "DataEvento": "2018-12-12 16:00:00", 
+                "DataEvento": "12/12/2018 16:00", 
                 "Mensagem": "Foi realizada uma manutenção no Switch 12. Favor testar novamente.",
                 "Usuario": "F. Carneiro"
             }
@@ -26,19 +26,19 @@
         "Id": 159,
         "Codigo": "P0235F",
         "Titulo": "Sem ponto de acesso",
-        "Abertura": "2018-12-12 13:30:00",
+        "Abertura": "15/12/2018 14:30",
         "Solicitante": "PIXEL\\suely.moraes",
         "Status": "Fechado",
         "Interacoes": [
             {
                 "Id":1,
-                "DataEvento": "2018-12-12 13:30:00", 
+                "DataEvento": "15/12/2018 15:30", 
                 "Mensagem": "Estou sem acesso a internet...",
                 "Usuario": "PIXEL\\suely.moraes"
             },
             {
                 "Id":2,
-                "DataEvento": "2018-12-12 16:00:00", 
+                "DataEvento": "15/12/2018 15:40", 
                 "Mensagem": "Foi realizada uma manutenção no Switch 12. Favor testar novamente.",
                 "Usuario": "F. Carneiro"
             }
