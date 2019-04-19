@@ -121,6 +121,7 @@ input, select, textarea {
 
 		a:hover {
 			border-color: transparent;
+			color: #49bf9d;
 		}
 
 /* Icon */
@@ -689,7 +690,7 @@ input, select, textarea {
 
 					#header nav a:hover:before {
 						background-color: rgba(255, 255, 255, 0.175);
-						color: #fff;
+						color: #49bf9d;
 					}
 
 				#header nav a:active {
