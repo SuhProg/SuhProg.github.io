@@ -1,4 +1,5 @@
 # newlandingpage
 
-new landing page in the works
-[Live Demo](https://suhprog.netlify.com)
+Landing page with contact information and resume.
+Made with CSS, HTML and JavaScript.
+[Live Project](https://suhprog.netlify.com)
